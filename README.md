@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rettichlp
-- 👀 I’m interested in Gemüse
-- 🌱 I’m currently learning Rezepte für Rettich
-- 💞️ I’m looking to collaborate on GemüseKiste
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning working with Docker
+- 💞️ I’m looking to collaborate on Spring Boot Applications
 - 📫 How to reach me service@rettichlp.de
 
 <!---
