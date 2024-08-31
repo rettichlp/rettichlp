@@ -1,8 +1,8 @@
-<div style="text-align: center">
+<div align="center">
     <img src="./rettich.svg" alt="Hi there, I'm rettichlp" />
 </div>
 
-<div style="text-align: center">
+<div align="center">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3"> 
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5"> 
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP"> 
@@ -34,14 +34,14 @@
     <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">
 </div>
 
-<div style="text-align: center">
+<div align="center">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
 </div>
 
 <details>
 <summary><h4>📊 GitHub Stats</h4></summary>
 
-<div style="text-align: center">
+<div align="center">
     <img src="./github-metrics.svg" alt="Metrics" />
 </div>
 </details>
